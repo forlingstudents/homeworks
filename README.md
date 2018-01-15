@@ -7,6 +7,6 @@
 
 
 1. First
-  1.1. First A
-  1.2. First B
+  + First A
+  + First B
 2. Second
