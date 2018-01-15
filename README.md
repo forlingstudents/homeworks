@@ -10,4 +10,4 @@
 2. Second
 
 
-[hse](https://www.hse.ru/)
+[вышка - мой универ](https://www.hse.ru/)
